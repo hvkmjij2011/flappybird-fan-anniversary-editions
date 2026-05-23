@@ -36,3 +36,9 @@
 [TR] Bu proje hiçbir kurumla bağlantılı değildir. Kodumuz Unlicense altındadır; bu "gri bölge" mühendisliğini alın, kendi skinlerinizi yapın, geliştirin ve paylaşın. tablonun sağlamlığına bir şey diyemiyorum. O yüzden lütfen hile yapmayın.
 
 [EN] This project is not affiliated with any corporation. Our code is released under the Unlicense; feel free to fork, theme, develop, and share this "grey-zone" engineering piece. I cannot say that the leaderboard was secure, please don't cheat.
+
+# ⚖️ Legal Disclaimer
+
+[TR] Bu çalışma, tamamen kâr amacı gütmeyen bir topluluk projesidir. Proje kapsamında kullanılan hiçbir materyal, özgün hak sahibinin(dong nguyen/.GEARS) ticari varlığına zarar verme amacı taşımaz. Oyunun yeniden canlandırılması, nostaljik bir mirasın korunması adına yapılmıştır. Bu repoda paylaşılan tüm kodlar ve yöntemler, "olduğu gibi" (as-is) ve hiçbir garanti olmaksızın sunulmaktadır. Kullanıcıların, oyunu ve içerdiği tüm varlıkları yerel telif hakları mevzuatına uygun şekilde kullanmaları kendi sorumluluklarındadır.
+
+[EN] This project is a non-profit community initiative. No material used herein is intended to infringe upon the commercial rights of the original copyright holder. The revival of this game is conducted solely for the preservation of a nostalgic legacy. All code and methodologies shared in this repository are provided "as-is" without any warranty. Users are solely responsible for ensuring that their use of the game and its assets complies with their local copyright laws and regulations
